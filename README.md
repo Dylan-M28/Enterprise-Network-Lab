@@ -1,5 +1,5 @@
 # Enterprise-Network-Lab
-Hands-on enterprise network design, implementation, security, and troubleshooting lab using.
+Hands-on enterprise network design, implementation, security, and troubleshooting lab.
 
 ## Status
 In Progress
